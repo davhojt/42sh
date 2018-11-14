@@ -1,8 +1,13 @@
-
-# Welcome to 42sh
-
-#### Description
-This project consists in creating a zsh-like in C language considered UNIX (and POSIX) standard.
+# 42sh
+***
+### Score 117/125
+##### Mandatory
+100/100
+##### Bonus
+17/25
+***
+### Challenge
+`42sh` is the final project of the `UNIX` branch of the curriculum. Create a shell which must function as a `UNIX` command-line interpreter and subscribe to `POSIX` standard.
 
 #### Objectives
 - Processes and signals handling
